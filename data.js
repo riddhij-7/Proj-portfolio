@@ -28,7 +28,7 @@ writing clean code, and turning ideas into real-world projects.
 When I'm not coding, you'll find me playing chess or reading tech blogs.`,
     highlights: [
       { label: "Location", value: "Pune, India" },
-      { label: "University", value: "Savitribai Phule Pune University" },
+      { label: "University", value: "SPPU" },
       { label: "Branch", value: "Computer Engineering" },
       { label: "Year", value: "Third Year (TE)" },
     ],
