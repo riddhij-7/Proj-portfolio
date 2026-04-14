@@ -22,7 +22,7 @@ const portfolioData = {
   // 📖 ABOUT ME
   // ----------------------------------------------------------
   about: {
-    description: `I'm a Second Year Engineering student passionate about building 
+    description: `I'm a Third Year Engineering student passionate about building 
 things that live on the internet. I love exploring new technologies, 
 writing clean code, and turning ideas into real-world projects. 
 When I'm not coding, you'll find me playing chess or reading tech blogs.`,
@@ -30,7 +30,7 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
       { label: "Location", value: "Pune, India" },
       { label: "University", value: "Savitribai Phule Pune University" },
       { label: "Branch", value: "Artificial Intelligence and Machine Learning" },
-      { label: "Year", value: "Second Year (SE)" },
+      { label: "Year", value: "Third Year (TE)" },
     ],
   },
 
